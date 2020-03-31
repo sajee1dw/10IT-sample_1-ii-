@@ -1,0 +1,4 @@
+ID|school_name|city|phoneno
+100|Horizon College|Colombo|12223333
+101|Gateway|Kalutara|11111111
+102|Royal|Panadura|555444444
